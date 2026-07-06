@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "node test.js"
+  },
+  "devDependencies": {
+    "puppeteer": "^25.2.1"
+  }
+}

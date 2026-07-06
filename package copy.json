@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "puppeteer": "^25.2.1"
+  }
+}
